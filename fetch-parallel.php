@@ -3,7 +3,7 @@
 require __DIR__ . '/vendor/autoload.php';
 
 // the output file
-$output = gzopen(__DIR__ . '/items.json.gz', 'w');
+$output = gzopen(__DIR__ . '/items.ndjson.gz', 'w');
 
 // the HTTP client
 $client = new GuzzleHttp\Client();

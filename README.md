@@ -12,4 +12,4 @@
 
 ## Import
 
-1. `gzcat items.json.gz | dat import --json --primary=article_id`
+1. `gzcat items.ndjson.gz | dat import --json --primary=article_id`
