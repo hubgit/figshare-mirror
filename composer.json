@@ -1,0 +1,12 @@
+{
+    "name": "hubgit/figshare-mirror",
+    "require": {
+        "guzzlehttp/guzzle": "~5.2"
+    },
+    "authors": [
+        {
+            "name": "Alf Eaton",
+            "email": "eaton.alf@gmail.com"
+        }
+    ]
+}
